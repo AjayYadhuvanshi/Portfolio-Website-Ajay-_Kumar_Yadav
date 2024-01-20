@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "SPPU Engg Prep",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/",
+      "code": "https://github.comd"
+    }
+  }
+]
